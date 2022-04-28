@@ -8,16 +8,16 @@ Early result on train and test data, SVM model is used as classifier, 5-fold CV 
 ![5fold_train_result](5fold_train_result.jpg)
 
 ## Test Score
-![5fold_test_result](./5fold_test_result.jpg)
+![5fold_test_result](./5fold_test_resultt.jpg)
 
 ## Train and Test Score
 Subject| Train | Test
 -------|-------|-----
-1|89.92% +/- 7.21|94.83%
-2|83.56% +/- 4.42|88.79%
-3|97.42% +/- 3.37|98.28%
+1|89.92% +/- 7.21|
+2|83.56% +/- 4.42|
+3|97.42% +/- 3.37|
 
-  
+**Note** : 20220428 There appears to be a mistake in cell 72, when you use it, please fix accordingly
 
 # Reference
 [1] Kai Keng Ang, Zheng Yang Chin, Haihong Zhang and Cuntai Guan, "Filter Bank Common Spatial Pattern (FBCSP) in Brain-Computer Interface," 
