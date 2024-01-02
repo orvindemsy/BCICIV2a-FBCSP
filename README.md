@@ -8,7 +8,7 @@ Early result on train and test data, SVM model is used as classifier, 5-fold CV 
 ![5fold_train_result](5fold_train_result.jpg)
 
 ## Test Score
-![5fold_test_result](./5fold_test_resultt.jpg)
+![5fold_test_result](./5fold_test_result.jpg)
 
 ## Train and Test Score
 Subject| Train | Test
